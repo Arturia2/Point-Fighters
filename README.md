@@ -1,27 +1,21 @@
-# Dormente
+# Point Fighters
 
 ## Motivação
-Devido a gostar de jogos que vão além de diversão e que reflita a realidade humana
+O desejo de um jogo divertido e acessível a mobiles e desktops
 
 ## Objetivo 
-trazer alguma mensagem e/ou reflexão sobre sentimentos
+Diversão em geral entre amigos.
 
 ## Valor Agregado
 
-Colocar alguns assuntos que ou são negligenciados ou não são postos em discussão
+Um jogo divertido e simples que possa ser jogado sem depender de muito conhecimento do mesmo. 
 
 ## Fases
-Os inimigos são divididos em 2 categorias, monstros e espíritos.
-cada fase será representada por um boss que toma forma de alguma coisa que gere medo na protagonista que ao derrotá-lo, ela ficara mais forte. Derrotar monstro aumentará um medidor de medo, onde caso o mesmo se complete, você perde o jogo. O mesmo será reduzido caso fique um tempo sem entrar em contato com eles. 
-
-1 - Solidão
-2 - Passado
-3 - Apatia
-4 - Morte (se encostar perdeu)
+Não existe fases neste jogo, pois como se trata de uma luta em ringue, serão criados estádios de combates onde os oponentes serão inseridos.
 
 ## Esquema de Pontuação
 
-Não existe uma pontuação clara, porém a protagonista tem a opção de derrotar seus monstro ou aprender a conviver com eles. Essas escolhas determinam a "pontuação".
+Cada oponente possui duas vidas de 100 pontos cada, onde vence o último que permanecer de pé. 
 
 ## Protótipos de Tela
 
