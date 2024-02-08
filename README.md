@@ -24,3 +24,7 @@ em criação
 ## Atualizações
 
  - 08/02/2024: Projeto em análise para futuras implementações.
+
+## Teste branch
+
+Teste de ramificação
