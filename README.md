@@ -20,3 +20,7 @@ Cada oponente possui duas vidas de 100 pontos cada, onde vence o último que per
 ## Protótipos de Tela
 
 em criação
+
+## Atualizações
+
+ - 08/02/2024: Projeto em análise para futuras implementações.
